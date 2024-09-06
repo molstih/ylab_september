@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+
+.loginForm{
+    position: relative;
+    margin: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    align-content: center;
+    width: 40%;
+    height: auto;
+    background: aqua;
+}
+
+
